@@ -1,0 +1,8 @@
+C:\Users\dinoz\Desktop\FileLab_V0\FileLab_V0\bin\Debug\FileLab_V0.exe.config
+C:\Users\dinoz\Desktop\FileLab_V0\FileLab_V0\bin\Debug\FileLab_V0.exe
+C:\Users\dinoz\Desktop\FileLab_V0\FileLab_V0\bin\Debug\FileLab_V0.pdb
+C:\Users\dinoz\Desktop\FileLab_V0\FileLab_V0\obj\Debug\FileLab_V0.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\FileLab_V0\FileLab_V0\obj\Debug\FileLab_V0.exe
+C:\Users\dinoz\Desktop\FileLab_V0\FileLab_V0\obj\Debug\FileLab_V0.pdb
+C:\Users\dinoz\Desktop\FileLab_V0\FileLab_V0\bin\Debug\output.txt
+C:\Users\dinoz\Desktop\FileLab_V0\FileLab_V0\bin\Debug\input.txt
