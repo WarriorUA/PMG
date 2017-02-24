@@ -34,12 +34,8 @@ namespace FileLab_V0
             switch (k)
             {
                 case 1:
-                    {
-                        array = Sort(array, n);
-                        foreach (var t in array)
-                        {
-                            sw.Write(t+" ");
-                        }
+                {
+                    Sort(array, n);
                         break;
                     }
                 case 2:
